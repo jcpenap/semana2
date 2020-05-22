@@ -1,2 +1,4 @@
-# semana2
-Taller Semana 2
+# Actividad de git 02
+#
+## Conflictos
+## Rebase
